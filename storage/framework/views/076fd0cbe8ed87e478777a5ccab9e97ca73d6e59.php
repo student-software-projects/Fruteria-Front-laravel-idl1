@@ -1,0 +1,1 @@
+hola mundo<?php /**PATH C:\Users\lenovo\OneDrive\Documentos\laravel\actividad_final_6_trimestre_2020\resources\views/usuarios/index.blade.php ENDPATH**/ ?>
